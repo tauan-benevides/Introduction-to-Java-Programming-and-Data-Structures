@@ -2,7 +2,7 @@
 
 ###  2.1 (Convert Celsius to Fahrenheit) Write a program that reads a Celsius degree in a ``double`` value from the console, then converts it to Fahrenheit, and displays the result. The formula for the conversion is as follows:
 
-![alt text](.../cap_02/cap_02/images/image.png)
+![alt text](../cap_02/images/image.png)
 
 Here is sample run:
 
