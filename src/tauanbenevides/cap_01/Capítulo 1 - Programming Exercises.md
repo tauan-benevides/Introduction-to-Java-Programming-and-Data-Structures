@@ -1,4 +1,4 @@
-# Chapter 1 - Programming Exercises
+# Capítulo 1 - Programming Exercises
 
 ---
 
@@ -11,17 +11,17 @@
 ---
 
 ### *1.3 (Display a pattern) Write a program that displays the following pattern:
-![alt text](../chapter1/images/1.3.png)
+![alt text](../cap_01/images/1.3.png)
 
 ---
 
 ### 1.4 (Print a table) Write a program that displays the following table:
-![alt text](../chapter1/images/1.4.png)
+![alt text](../cap_01/images/1.4.png)
 
 ---
 
 ### 1.5 (Compute expressions) Write a program that displays the result of:
-![alt text](../chapter1/images/1.5.png)
+![alt text](../cap_01/images/1.5.png)
 
 ---
 
@@ -31,12 +31,12 @@
 ---
 
 ### 1.7 (Approximate p) p can be computed using the following formula:
-![alt text](../chapter1/images/1.7.png)
+![alt text](../cap_01/images/1.7.png)
 
 
 Write a program that displays the result of: 
 
-![alt text](../chapter1/images/1.7.1.png) and ![alt text](../chapter1/images/1.7.2.png)
+![alt text](../cap_01/images/1.7.1.png) and ![alt text](../cap_01/images/1.7.2.png)
 
 Use 1.0 instead of 1 in your program.
 
@@ -44,13 +44,13 @@ Use 1.0 instead of 1 in your program.
 
 ### 1.8 (Area and perimeter of a circle) Write a program that displays the area and perimeter of a circle that has a radius of 5.5 using the following formulas:
 
-![alt text](../chapter1/images/1.8.png)
+![alt text](../cap_01/images/1.8.png)
 
 ---
 
 ### 1.9 (Area and perimeter of a rectangle) Write a program that displays the area and perimeter of a rectangle with a width of 4.5 and a height of 7.9 using the following formula:
 
-![alt text](../chapter1/images/1.9.png)
+![alt text](../cap_01/images/1.9.png)
 
 ---
 
@@ -79,10 +79,10 @@ For example, 5.0 / 4 is 1.25 and 10 / 4.0 is 2.5.
 
 ### *1.13 (Algebra: solve 2 * 2 linear equations) You can use Cramer’s rule to solve the following 2 * 2 system of linear equation provided that ad – bc is not 0:
 
-![alt text](../chapter1/images/1.13.png)
+![alt text](../cap_01/images/1.13.png)
 
 
 Write a program that solves the following equation and displays the value for x and y: 
 (Hint: replace the symbols in the formula with numbers to compute x and y. This exercise can be done in Chapter 1 without using materials in later chapters.)
 
-![alt text](../chapter1/images/1.13.1.png)
+![alt text](../cap_01/images/1.13.1.png)
